@@ -3,3 +3,5 @@
 build/ 
 .gradle/ 
 local.properties 
+tools/ 
+wow_notify_env/ 
